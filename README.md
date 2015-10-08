@@ -3,4 +3,4 @@
 
 *TO DO*
 
-*[ ] HTML Markup
+*[] HTML Markup
