@@ -3,4 +3,5 @@
 
 *TO DO*
 
-- [ ] HTML Markup
+- [x] HTML Markup
+- [ ] Task 2
